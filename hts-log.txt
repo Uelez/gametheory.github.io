@@ -16,7 +16,6 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 18 links scanned, 17 files written (7279663 bytes overall) [7180504 bytes received at 1436100 bytes/sec], 161607 bytes transferred using HTTP compression in 7 files, ratio 33%, 6.0 requests per connection
 
 (No errors, 0 warnings, 0 messages)
 

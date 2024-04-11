@@ -56,11 +56,11 @@ $(document).ready(function() {
 
    
     $('#twitter').click(function() {
-      window.open('https://twitter.com/GameOnSolana');
+      window.open('https://twitter.com/catgame_sol');
       });
     
       $('#telegram').click(function() {
-        window.open('https://t.me/GameOnSOL');
+        window.open('https://t.me/catgamesol');
       });
     
       $('#dexsc, #dexs').click(function() {
